@@ -1,4 +1,4 @@
-public class Tesk2 {
+public class Task2 {
     public static String longest(String[] strs) {
         if (strs == null || strs.length == 0){
             return "";

@@ -1,6 +1,6 @@
 import static java.lang.Math.pow;
 
-public class Tesk2 {
+public class Task2 {
     public static void main(String[] args) {
         int i,n;
         n=0;

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Tesk4 {
+public class Task4 {
     public static void main(String[] args) {
         int[] nums={0,1,0,3,12};
         int zeroNum=0;

@@ -1,4 +1,4 @@
-public class Tesk1 {
+public class Task1 {
     static void rotate(int[][] matrix) {
         if (matrix == null) {
             return;

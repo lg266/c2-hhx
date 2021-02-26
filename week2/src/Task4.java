@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tesk4 {
+public class Task4 {
     static int v=100;
     public static void main(String[] args) {
         int a;

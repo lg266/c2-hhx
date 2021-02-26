@@ -1,4 +1,4 @@
-public class Tesk3 {
+public class Task3 {
     public static void main(String[] args) {
         String strs = "233hello15aop999 ";
         String[] res=new String[10];

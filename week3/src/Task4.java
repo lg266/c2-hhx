@@ -2,7 +2,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-public class Tesk4 {
+public class Task4 {
     public static void main(String[] args) {
         System.out.println("输入:helloworld\n输出:");
         System.out.println(charcount("helloworld"));

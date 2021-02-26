@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import static java.lang.Math.pow;
 
-public class Tesk1 {
+public class Task1 {
     public static void main(String[] args) {
         double res;
         Scanner in=new Scanner(System.in);
