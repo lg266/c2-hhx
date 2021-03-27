@@ -10,7 +10,7 @@ public class sql_1 {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/csa?serverTimezone=UTC","root","123456");
-            Statement stmt=conn.createStatement();
+            Statement stmt = conn.createStatement();
             ResultSet rs;
             String sql="create table if not exists student (" +
                     "`SNO` varchar(20)," +
