@@ -58,7 +58,7 @@ class Truck extends Car
 
 }
 
-public class Tesk6 {
+public class Task6 {
 
     public static void main(String[] args) {
 

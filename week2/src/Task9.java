@@ -1,4 +1,4 @@
-public class Tesk9 {
+public class Task9 {
     public static void main(String[] args) {
         Star s = new Star();
         s.shine();

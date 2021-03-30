@@ -24,7 +24,7 @@ class People extends Monkey {
         System.out.println("别说话！认真思考！");
     }
 }
-public class Tesk5 {
+public class Task5 {
     public static void main(String[] args) {
         Monkey m=new Monkey("Toney");
         System.out.println("我是猴子"+m.getName());

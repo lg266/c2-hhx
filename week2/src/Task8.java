@@ -1,4 +1,4 @@
-public class Tesk8 {
+public class Task8 {
     public static void main(String[] args) {
         C c = new C();
         c.showA();

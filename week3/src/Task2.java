@@ -15,7 +15,7 @@ class record{
         this.ManagerId=ManagerId;
     }
 }
-public class Tesk2 {
+class Tesk2 {
     public static void main(String[] args) {
         List<record> list1=new List<record>() {
             @Override

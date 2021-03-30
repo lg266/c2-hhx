@@ -1,4 +1,4 @@
-public class Tesk7 {
+public class Task7 {
     public static void main(String[] args) {
         Duck duck = new Duck("鸭子", "感冒", "发烧", 2);
         duck.showMsg();

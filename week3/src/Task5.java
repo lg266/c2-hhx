@@ -4,7 +4,7 @@ class TCPException extends Exception{
     }
 }
 
-public class Tesk5{
+class Tesk5{
     public static void main(String[] args) throws Exception {
         try {
             int a = 3 / 0;
