@@ -5,12 +5,16 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springmvc" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../../java/StudentTest/pom.xml" />
         <option value="$PROJECT_DIR$/Week7/pom.xml" />
         <option value="$PROJECT_DIR$/week8/pom.xml" />
+        <option value="$PROJECT_DIR$/week9/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
