@@ -2,10 +2,10 @@ package com.cyanfox.dao;
 
 
 import com.cyanfox.entity.User;
-import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
 
-@Mapper
+@Repository
 public interface UserMapper {
     //用户注册
     void register(User user);

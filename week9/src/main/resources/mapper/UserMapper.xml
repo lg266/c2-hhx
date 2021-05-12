@@ -4,7 +4,7 @@
 <mapper namespace="com.cyanfox.dao.UserMapper">
     <!--用户注册-->
     <insert id="register" parameterType="User">
-        insert into user(id,username,password,name,birthday,sex,email,createtime,updatetime,mobile) values (null,#{username},#{password},#{name},#{birthday},#{sex},#{email},#{createtime},#{updatetime},#{mobile})
+        insert into user(id,username,password,name,birthday,sex,email,createtime,updatetime,mobile  ``) values (null,#{username},#{password},#{name},#{birthday},#{sex},#{email},#{createtime},#{updatetime},#{mobile})
     </insert>
     <!--用户登录-->
     <select id="login" resultType="User">
